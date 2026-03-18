@@ -1,8 +1,6 @@
-tensorflow
-pandas
 numpy
+pandas
 scikit-learn
-matplotlib
+tensorflow-cpu==2.10.0
 streamlit
-tensorboard
-ipykernel
+pickle-mixin
